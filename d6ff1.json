@@ -2,14 +2,14 @@
     "config" : [
         {
             "activate_vpn" : "false",
-            "activate_force_vpn" : "true",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
             "int_interval" : 5,
             "activate_ads" : "false",
-            "activate_steps" : "false",
+            "activate_steps" : "true",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
@@ -30,10 +30,10 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "12c959ebd",
+            "iron_source_key": "",
 
-            "diamond": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/b/be/Icon_Currency_Gem.png/revision/latest/scale-to-width-down/250?cb=20220517110115",
-            "cover": "https://raw.githubusercontent.com/chetakd565/iyfiyf/main/couv.png",
+            "diamond": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/diam.png",
+            "cover": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/cov.png",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -155,42 +155,42 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://9asso.github.io/published/imgs/btspin.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://9asso.github.io/published/imgs/btquiz.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://9asso.github.io/published/imgs/btmore.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://9asso.github.io/published/imgs/btgames.png",
+            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/8.png",
             "bg" : "#673AB7"
         }
     ],
