@@ -35,7 +35,7 @@
             "diamond": "http://esotericsoftware.com/img/blog/diamond-tutorial/diamond-sizes--small.gif",
             "cover": "https://raw.githubusercontent.com/Maria01g/d6ff1/main/ff1/coov.png",
             
-            "activate_update_app": "true",
+            "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
